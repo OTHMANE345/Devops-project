@@ -1,0 +1,12 @@
+com/product/Repositories/ProductRepository.class
+com/product/Repositories/CategoryRepository.class
+com/product/Service/ProductServices.class
+com/product/Service/CategoryServices.class
+com/product/Controllers/CategoryController.class
+com/product/modules/Category.class
+com/product/modules/Product.class
+com/product/Controllers/ProductController.class
+com/product/ProductApplication.class
+com/product/Wrapper/productwrapperfordisplay.class
+com/product/Wrapper/Productwrapper.class
+com/product/utils/apputils.class
